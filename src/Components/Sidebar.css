@@ -1,0 +1,14 @@
+
+
+.item{
+    display: 'flex';
+     flex-direction: 'row';
+     gap:'20px';
+     font-size:'25px'
+}
+
+.item:hover {
+    background-color: #fff;
+    color: #1e67e7;
+    cursor: pointer;
+}

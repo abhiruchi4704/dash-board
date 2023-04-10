@@ -1,0 +1,39 @@
+
+
+.nav-containerr{
+    display:flex;
+    width:100%;
+    justify-content: flex-end;
+  }
+
+
+
+
+
+.search {
+  
+    display:flex;
+    justify-content: space-between;
+    border: #B0B0B0;
+    border-radius: 20px;
+    background-color: #fff;
+    width: 12rem;
+    height: 2rem;
+}
+
+.search:hover {
+    background-color:  #8cccf4;
+}
+
+.image {
+    height: 2rem;
+    width: 2rem;
+    
+
+    border-radius: 50%;
+}
+
+.nav-icon{
+    
+    font-size: 30px
+}
